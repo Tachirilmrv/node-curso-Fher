@@ -1,0 +1,20 @@
+{
+  "name": "node_base",
+  "version": "0.1.0",
+  "description": "Create infinite multiplication tables",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "base5": "node index --base=5"
+  },
+  "keywords": [
+    "Multiplication",
+    "tables"
+  ],
+  "author": "Tachiri",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}

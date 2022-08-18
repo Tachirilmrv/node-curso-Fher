@@ -1,0 +1,17 @@
+.vscode/
+
+6-ClimApp/.env
+8-RESTserver/.env
+9-Sockets/.env
+10-SocketChat/.env
+11-TS-MySQL/.env
+12-SocketChatv2/.env
+
+4-Bases de Node/node_modules
+5-Aplicacion de consola interactiva. Tareas por hacer/node_modules
+6-ClimApp/node_modules/
+8-RESTserver/node_modules/
+9-Sockets/node_modules/
+10-SocketChat/node_modules/
+11-TS-MySQL/node_modules/
+12-SocketChatv2/node_modules/

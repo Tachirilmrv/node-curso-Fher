@@ -1,0 +1,32 @@
+[
+    {
+        "id": "place.17293526874957600",
+        "place_name": "Villach, Carintia, Austria",
+        "lat": 46.616728,
+        "lng": 13.850027
+    },
+    {
+        "id": "place.10615033873300870",
+        "place_name": "Provincia de La Habana, Cuba",
+        "lat": 23.101612,
+        "lng": -82.321534
+    },
+    {
+        "id": "place.14749210607497330",
+        "place_name": "París, Francia",
+        "lat": 48.85658,
+        "lng": 2.35183
+    },
+    {
+        "id": "place.3121459642087760",
+        "place_name": "Praga, Praga, República Checa",
+        "lat": 50.087465,
+        "lng": 14.421253
+    },
+    {
+        "id": "region.6726133488841390",
+        "place_name": "Provincia de Santiago de Cuba, Cuba",
+        "lat": 20.0198,
+        "lng": -75.8139
+    }
+]

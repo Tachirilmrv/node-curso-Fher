@@ -1,0 +1,23 @@
+{
+  "name": "ClimApp",
+  "version": "0.1.0",
+  "description": "Aplicación de consola para consultar el clima",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Weather",
+    "City"
+  ],
+  "author": "Tachiri",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
+    "inquirer": "^8.2.4",
+    "uuid": "^8.3.2"
+  }
+}
